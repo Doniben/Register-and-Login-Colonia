@@ -1,0 +1,636 @@
+Server on port 4000
+Environment: undefined
+[
+  {
+    name: 'Ivan Dionel Morales',
+    email: 'ing.ivandionel2018@gmail.com',
+    password: 'NkQT9W',
+    confirmPassword: 'NkQT9W'
+  },
+  {
+    name: 'Julieta Rubio',
+    email: 'julyrupa@gmail.com',
+    password: 'wBdVye',
+    confirmPassword: 'wBdVye'
+  },
+  {
+    name: 'Erika Méndez Quero.',
+    email: 'rika.mendez@ance.org.mx',
+    password: 'gpsKtw',
+    confirmPassword: 'gpsKtw'
+  },
+  {
+    name: 'Aaron Espinosa Teutli',
+    email: 'aaron-espinosa13@hotmail.com',
+    password: 'hKGQJv',
+    confirmPassword: 'hKGQJv'
+  },
+  {
+    name: 'Blanca Estela Barrios',
+    email: 'be.barrios1004@gmail.com',
+    password: 'PrkbEd',
+    confirmPassword: 'PrkbEd'
+  },
+  {
+    name: 'Mauricio Lovera',
+    email: 'mauricio.lovera@hotmail.com',
+    password: 'Lp2UuD',
+    confirmPassword: 'Lp2UuD'
+  },
+  {
+    name: 'Rolando Macedonio Martinez',
+    email: 'rofusamexico@gmail.com',
+    password: 'HkzuSA',
+    confirmPassword: 'HkzuSA'
+  },
+  {
+    name: 'Jorge Alfaro',
+    email: 'jorge.alfaro@bam.com.gt',
+    password: 'eVHHpg',
+    confirmPassword: 'eVHHpg'
+  },
+  {
+    name: 'German Echeverría',
+    email: 'german_echeverria@bantrab.net.gt',
+    password: '9AwFMm',
+    confirmPassword: '9AwFMm'
+  },
+  {
+    name: 'Erick Guzman',
+    email: 'erick_guzman@bantrab.net.gt',
+    password: 'GYdYTs',
+    confirmPassword: 'GYdYTs'
+  },
+  {
+    name: 'Sergio Melgar',
+    email: 'smelgar@bi.com.gt',
+    password: 'TSUhy4',
+    confirmPassword: 'TSUhy4'
+  },
+  {
+    name: 'Edin Reyes',
+    email: 'ereyes@bi.com.gt',
+    password: 'VWn7px',
+    confirmPassword: 'VWn7px'
+  },
+  {
+    name: 'Carlos Cuellar',
+    email: 'ccuellar@bi.com.gt',
+    password: 'JTYk3P',
+    confirmPassword: 'JTYk3P'
+  },
+  {
+    name: 'Eddy Medina',
+    email: 'emedina@interbanco.com.gt',
+    password: 'CrB2G6',
+    confirmPassword: 'CrB2G6'
+  },
+  {
+    name: 'Marco Antonio Castillo',
+    email: 'marco.castillo@banrural.com.gt',
+    password: 'kjj7Dx',
+    confirmPassword: 'kjj7Dx'
+  },
+  {
+    name: 'Rafael Castillo',
+    email: 'rafael.castillo@banrural.com.gt',
+    password: 'ubDNMp',
+    confirmPassword: 'ubDNMp'
+  },
+  {
+    name: 'Fernando Contreras',
+    email: 'fcontreras@somoscmi.com',
+    password: 'he7RCW',
+    confirmPassword: 'he7RCW'
+  },
+  {
+    name: 'Federico Cota',
+    email: 'ecota@telmex.com ',
+    password: '98k522',
+    confirmPassword: '98k522'
+  },
+  {
+    name: 'Ana Florencia Williams',
+    email: 'anaflo04@hotmail.com',
+    password: 'SLwfHU',
+    confirmPassword: 'SLwfHU'
+  },
+  {
+    name: 'Erling Wisnes',
+    email: 'erling@borse.com.mx ',
+    password: '5EnBuQ',
+    confirmPassword: '5EnBuQ'
+  },
+  {
+    name: 'Christian Wisnes',
+    email: 'christian@borse.com.mx',
+    password: 'Je4GWx',
+    confirmPassword: 'Je4GWx'
+  },
+  {
+    name: 'Teresa Valencia',
+    email: 'compras@pasteleriamarisa.com.mx ',
+    password: 'auUp7t',
+    confirmPassword: 'auUp7t'
+  },
+  {
+    name: 'Daniela Bustamante',
+    email: 'idbustamantea@gmail.com',
+    password: 'PvF9wB',
+    confirmPassword: 'PvF9wB'
+  },
+  {
+    name: 'Martín Campos',
+    email: 'mcamposgfa@gmail.com',
+    password: 'L9vk6Y',
+    confirmPassword: 'L9vk6Y'
+  },
+  {
+    name: 'Braulio Moran',
+    email: ' brauliomorandelgado@gmail.com',
+    password: 'BdNFQY',
+    confirmPassword: 'BdNFQY'
+  },
+  {
+    name: 'Juan Mendoza',
+    email: ' jmendoza0401@yahoo.com.mx',
+    password: 'mvayPR',
+    confirmPassword: 'mvayPR'
+  },
+  {
+    name: 'Ann Ivonne Gómez Pérez',
+    email: 'grafismoann@gmail.com',
+    password: 'xqxXZM',
+    confirmPassword: 'xqxXZM'
+  },
+  {
+    name: 'Roberto Martínez',
+    email: 'roberto@naturaladventure.com.mx',
+    password: 'KYrBM7',
+    confirmPassword: 'KYrBM7'
+  },
+  {
+    name: 'Carmen Vicente Berríos',
+    email: 'akemy1804@gmail.com',
+    password: 'FsMM2J',
+    confirmPassword: 'FsMM2J'
+  },
+  {
+    name: 'Ray Bengolea Rodriguez',
+    email: 'ray.bengolea@gmail.com',
+    password: 'c6jXwW',
+    confirmPassword: 'c6jXwW'
+  },
+  {
+    name: 'Ricardo Tacuri Torres',
+    email: 'ricardo.tacuri@mimco.com.pe',
+    password: '3mNYKM',
+    confirmPassword: '3mNYKM'
+  },
+  {
+    name: 'Patricia Escárate Merino',
+    email: 'patty_escarate@hotmail.com',
+    password: 't27PJ8',
+    confirmPassword: 't27PJ8'
+  },
+  {
+    name: 'María del Pilar Zapata Flores',
+    email: 'pilarzapataf@gmail.com',
+    password: 'GUrz3F',
+    confirmPassword: 'GUrz3F'
+  },
+  {
+    name: 'César Augusto Cabrejo Vega',
+    email: 'ccabrejo@aol.com',
+    password: 'u2TsWH',
+    confirmPassword: 'u2TsWH'
+  },
+  {
+    name: 'Angélica Domínguez Almaguer',
+    email: 'almaguer12@gmail.com',
+    password: 'TazhYp',
+    confirmPassword: 'TazhYp'
+  },
+  {
+    name: 'Susana Miyar Álvarez',
+    email: 'smiyar@gcglobal.com',
+    password: '6Nt3FA',
+    confirmPassword: '6Nt3FA'
+  },
+  {
+    name: 'Claudia Laura Chu Sión Rodríguez',
+    email: 'claudia.chusion@gmail.com',
+    password: 'UkmwPP',
+    confirmPassword: 'UkmwPP'
+  },
+  {
+    name: 'Isabel Cristina Mllma Chanchaya',
+    email: 'cristinamallma2911@gmail.com',
+    password: 'd6Aez2',
+    confirmPassword: 'd6Aez2'
+  },
+  {
+    name: 'Gabriela Díaz',
+    email: 'gabrieladiazeguez@gmail.com',
+    password: 'fFuW3r',
+    confirmPassword: 'fFuW3r'
+  },
+  {
+    name: 'Sofía Díaz',
+    email: 'sofiadiazeguez@gmail.com',
+    password: '6cad2P',
+    confirmPassword: '6cad2P'
+  },
+  {
+    name: 'Rossina Moreno',
+    email: 'sofiadiazeguez@gmail.com',
+    password: '76NUC7',
+    confirmPassword: '76NUC7'
+  },
+  {
+    name: 'Marcela Herrera',
+    email: 'maherrera@abs-qe.com',
+    password: 'rapRFU',
+    confirmPassword: 'rapRFU'
+  },
+  {
+    name: 'Carlos Mayorga',
+    email: 'carlosadrianmayorga@gmail.com',
+    password: 'Gm7H4m',
+    confirmPassword: 'Gm7H4m'
+  },
+  {
+    name: 'Milyon Ribadeneira',
+    email: 'mribadeneira@tecniprevensa.com',
+    password: 'Y4bnCg',
+    confirmPassword: 'Y4bnCg'
+  },
+  {
+    name: 'Miguel Ochoa',
+    email: 'miguel.ochoa@rebinduc.com',
+    password: '5LdjMb',
+    confirmPassword: '5LdjMb'
+  },
+  {
+    name: 'Roberto López',
+    email: 'robertolopez@qcmecuador.com',
+    password: 'gQ86ya',
+    confirmPassword: 'gQ86ya'
+  },
+  {
+    name: 'Pablo Garcés',
+    email: 'pgarces32@hotmail.com',
+    password: 'CPxgtf',
+    confirmPassword: 'CPxgtf'
+  },
+  {
+    name: 'María Manganese',
+    email: 'mriamanganesem@gmail.com',
+    password: 'q9Kxup',
+    confirmPassword: 'q9Kxup'
+  },
+  {
+    name: 'Guillermo Molina',
+    email: 'guillermomolina344@gmail.com',
+    password: 'eBWmVt',
+    confirmPassword: 'eBWmVt'
+  },
+  {
+    name: 'José Francisco Magaña',
+    email: ' josepacomagana@hotmail.com',
+    password: 'bspCzn',
+    confirmPassword: 'bspCzn'
+  },
+  {
+    name: 'ANTONY SERRANO SAMPEDRO',
+    email: 'antonyser1@hotmail.com',
+    password: 'QhRsjJ',
+    confirmPassword: 'QhRsjJ'
+  },
+  {
+    name: 'Piedad Echeverry Solanilla',
+    email: ' info.piedadecheverry@gmail.com',
+    password: 'VKGdM6',
+    confirmPassword: 'VKGdM6'
+  },
+  {
+    name: 'Marcos Alejandro Vargas Rojas ',
+    email: 'Alexvargas1312@gmail.com',
+    password: 'zAvyQB',
+    confirmPassword: 'zAvyQB'
+  },
+  {
+    name: 'María Teresa Pastor',
+    email: 'Tetepastor@gmail.com',
+    password: 'cJaNwg',
+    confirmPassword: 'cJaNwg'
+  },
+  {
+    name: 'Eduardo Lorenzo Nùñez Ortega ',
+    email: 'edortega1978@gmail.com',
+    password: 'YTJ8zR',
+    confirmPassword: 'YTJ8zR'
+  },
+  {
+    name: 'Elvia Sánchez ',
+    email: 'elviamapisa@hotmail.com',
+    password: 'eq6sZr',
+    confirmPassword: 'eq6sZr'
+  },
+  {
+    name: 'Manuel Bernal',
+    email: 'mauelb@gmail.com',
+    password: 'c8pxza',
+    confirmPassword: 'c8pxza'
+  },
+  {
+    name: 'Noris ',
+    email: 'norissteenstrup@consorciocreo.com',
+    password: 'mUbjSc',
+    confirmPassword: 'mUbjSc'
+  },
+  {
+    name: 'Lucy Ahedo',
+    email: 'Lucilaahedo@icloud.com',
+    password: 'TzX8Ap',
+    confirmPassword: 'TzX8Ap'
+  },
+  {
+    name: 'Guadalupe Alejandra Mata Fuerte',
+    email: ' galemata_7@hotmail.com',
+    password: 'ErhdvU',
+    confirmPassword: 'ErhdvU'
+  },
+  {
+    name: ' Lilia Santacruz Ortega ',
+    email: ' l.santacruz@ebc.edu.mx',
+    password: 'GkV5Uw',
+    confirmPassword: 'GkV5Uw'
+  },
+  {
+    name: 'Yazmín Valdueza Guadarrama ',
+    email: ' valdueza9@hotmail.com',
+    password: '5rJhqx',
+    confirmPassword: '5rJhqx'
+  },
+  {
+    name: 'Martha Alejandra Vargas Macias ',
+    email: ' marthaalejandravm@hotmail.com',
+    password: 'fasZax',
+    confirmPassword: 'fasZax'
+  },
+  {
+    name: 'Ernesto Cueva González Correo',
+    email: 'alexconvergencia@gmail.com',
+    password: 'hSUX7d',
+    confirmPassword: 'hSUX7d'
+  },
+  {
+    name: 'Leticia Quintan',
+    email: 'letycigarreroquintana@gmail.com',
+    password: '96vxhc',
+    confirmPassword: '96vxhc'
+  },
+  {
+    name: 'Adriana Quiroz',
+    email: 'adriqirgan_15@hotmail.com',
+    password: 'W6YyDw',
+    confirmPassword: 'W6YyDw'
+  },
+  {
+    name: 'Abigail Hernández',
+    email: 'abigahail@gmail.com',
+    password: 'EyGwd2',
+    confirmPassword: 'EyGwd2'
+  },
+  {
+    name: 'Guadalupe Dominguez Garcia',
+    email: 'gdominguezg94@gmail.com',
+    password: 'wCHpqk',
+    confirmPassword: 'wCHpqk'
+  },
+  {
+    name: 'Hector Jose Blanco Rostran',
+    email: 'blancohector@hotmail.com',
+    password: 'AXrYUz',
+    confirmPassword: 'AXrYUz'
+  },
+  {
+    name: 'Judith Maria Aguilera Garache',
+    email: 'aguileragarache@yahoo.es',
+    password: '39Q4JE',
+    confirmPassword: '39Q4JE'
+  },
+  {
+    name: 'Karina Guisell Sinclair Moreno',
+    email: 'karina.sinclair@cyaambiental.com',
+    password: 'LerzB7',
+    confirmPassword: 'LerzB7'
+  },
+  {
+    name: 'keren herrera Nicaragua',
+    email: 'kerenherrera2006@hotmail.com',
+    password: 'DNs6fj',
+    confirmPassword: 'DNs6fj'
+  },
+  {
+    name: 'Maria Concepcion Echaverry jimenez',
+    email: 'mariaechaverryjimenez@gmail.com',
+    password: 'UDu9Wx',
+    confirmPassword: 'UDu9Wx'
+  },
+  {
+    name: 'Gabriel Alberto Varela Rojas',
+    email: 'gvarela.convasa@gmail.com',
+    password: '6ph4Vk',
+    confirmPassword: '6ph4Vk'
+  },
+  {
+    name: 'Cristhian Vilchez',
+    email: 'cvilchez@gtmchemical.com',
+    password: '73SmK8',
+    confirmPassword: '73SmK8'
+  },
+  {
+    name: 'Carlos Chamorro',
+    email: 'chamorro1989@gmail.com',
+    password: '9uN6u6',
+    confirmPassword: '9uN6u6'
+  },
+  {
+    name: 'Saul Llanes',
+    email: 'bsllanes@alfinsa.com',
+    password: 'aja5pp',
+    confirmPassword: 'aja5pp'
+  },
+  {
+    name: 'Aldo Patricio Padilla Aguilera',
+    email: 'alpadilla525@hotmail.com',
+    password: 'LzwQpZ',
+    confirmPassword: 'LzwQpZ'
+  },
+  {
+    name: 'Erick Giovanny Martínez Bravo',
+    email: 'erickgmb@gmail.com',
+    password: 'kUL4hs',
+    confirmPassword: 'kUL4hs'
+  },
+  {
+    name: 'Nestor Francisco Perez Ubilla',
+    email: 'npu8@hotmail.com',
+    password: 'jsFYs4',
+    confirmPassword: 'jsFYs4'
+  },
+  {
+    name: 'Marlon Antonio Castellanos García',
+    email: 'marloncastellanos17@gmail.com',
+    password: 'ALwDw8',
+    confirmPassword: 'ALwDw8'
+  },
+  {
+    name: 'Brighton Javier Flores Cabrera',
+    email: 'fbrightonjavier99gmail.com',
+    password: 'BSVY2a',
+    confirmPassword: 'BSVY2a'
+  },
+  {
+    name: 'Omar Cano',
+    email: 'canoconsultores.oc@gmail.com',
+    password: 'rTK4k4',
+    confirmPassword: 'rTK4k4'
+  },
+  {
+    name: 'Larissa Martínez',
+    email: 'larissa.martinez11@yahoo.com',
+    password: 'KyyrZe',
+    confirmPassword: 'KyyrZe'
+  },
+  {
+    name: 'Pablo Acuña',
+    email: 'pacuna@condiarsa.com',
+    password: 'ewSr48',
+    confirmPassword: 'ewSr48'
+  },
+  {
+    name: 'Meryland Roiz',
+    email: 'mroiz@condiarsa.com',
+    password: '88ZgzW',
+    confirmPassword: '88ZgzW'
+  },
+  {
+    name: 'Mario Payan',
+    email: 'mariopayan@outlook.es',
+    password: 'Q5n5zK',
+    confirmPassword: 'Q5n5zK'
+  },
+  {
+    name: 'Yesi Suárez',
+    email: 'yecarasu@gmail.com',
+    password: 'k4x7Lx',
+    confirmPassword: 'k4x7Lx'
+  },
+  {
+    name: 'Mario Alfredo Guevara',
+    email: 'mrgaguilar@gmail.com',
+    password: '9uNqWY',
+    confirmPassword: '9uNqWY'
+  },
+  {
+    name: 'Luis Espinoza',
+    email: 'rodolfo150692@gmail.com',
+    password: 'tZEchK',
+    confirmPassword: 'tZEchK'
+  },
+  {
+    name: 'Liliana Aragón Aguilar',
+    email: 'liliana_aragon@yahoo.com',
+    password: 'XK49wp',
+    confirmPassword: 'XK49wp'
+  },
+  {
+    name: 'Cecilia Moreno',
+    email: 'cecilmoreno2@gmail.com',
+    password: 'eexvBD',
+    confirmPassword: 'eexvBD'
+  },
+  {
+    name: 'Heizel Aracelly Unñez Rosales',
+    email: 'haracellysnros89@yahoo.es',
+    password: 'Q76RMb',
+    confirmPassword: 'Q76RMb'
+  },
+  {
+    name: 'Marlon Madrigal',
+    email: 'mmadrigal0391@gmailcom',
+    password: 'v5mLs4',
+    confirmPassword: 'v5mLs4'
+  },
+  {
+    name: 'Carlos Alberto Fonseca',
+    email: 'carlosfonseca518@gmail.com',
+    password: 'HVchKy',
+    confirmPassword: 'HVchKy'
+  },
+  {
+    name: 'Alfonso Jesús Maradiaga',
+    email: 'alfismaradiaga@gmail.com',
+    password: '4v3rQE',
+    confirmPassword: '4v3rQE'
+  },
+  {
+    name: 'EDGAR ISMAEL SULVARAN REYES',
+    email: 'edgar.sulvaran@hotmail.com',
+    password: 'n59vzM',
+    confirmPassword: 'n59vzM'
+  },
+  {
+    name: 'DANTE EMMANUEL HERNANDEZ CASILLAS',
+    email: 'dante.hernandez.cp@gmail.com',
+    password: 'QVhfs9',
+    confirmPassword: 'QVhfs9'
+  },
+  {
+    name: 'VICTOR ARTURO TADEO CASABON',
+    email: 'vtadeoconemp@gmail.com',
+    password: 'TD567u',
+    confirmPassword: 'TD567u'
+  },
+  {
+    name: 'DIANA HERNANDEZ SINFOROSO',
+    email: 'dh02537@gmail.com',
+    password: 'zku4PF',
+    confirmPassword: 'zku4PF'
+  },
+  ... 300 more items
+]
+Mongodb is connected to localhost
+Inserted: 101 rows
+[0mPOST /users/signin [36m302[0m 155.193 ms - 52[0m
+[0mGET /360 [32m200[0m 103.486 ms - 2694[0m
+[0mGET /css/main.css [36m304[0m 22.820 ms - -[0m
+[0mGET /favicon.ico [36m304[0m 18.929 ms - -[0m
+[0mGET / [0m-[0m - ms - -[0m
+[0mGET / [32m200[0m 548.362 ms - 3499[0m
+[0mGET /css/main.css [36m304[0m 50.167 ms - -[0m
+[0mGET /img/logoblanco-portada.png [36m304[0m 32.998 ms - -[0m
+[0mGET /img/logo.png [36m304[0m 31.258 ms - -[0m
+[0mGET /img/colonia-background.png [36m304[0m 16.485 ms - -[0m
+[0mGET /favicon.ico [36m304[0m 26.367 ms - -[0m
+[0mPOST /users/signin [36m302[0m 329.606 ms - 52[0m
+[0mGET /360 [36m304[0m 137.897 ms - -[0m
+[0mGET /css/main.css [36m304[0m 19.032 ms - -[0m
+[0mGET /favicon.ico [36m304[0m 17.405 ms - -[0m
+[0mGET /users/logout [36m302[0m 21.393 ms - 70[0m
+[0mGET /users/signin [32m200[0m 15.138 ms - 3499[0m
+[0mGET /css/main.css [36m304[0m 37.285 ms - -[0m
+[0mGET /img/logo.png [36m304[0m 21.378 ms - -[0m
+[0mGET /img/logoblanco-portada.png [36m304[0m 17.995 ms - -[0m
+[0mGET /img/colonia-background.png [36m304[0m 4.798 ms - -[0m
+[0mGET /favicon.ico [36m304[0m 15.468 ms - -[0m
+[0mPOST /users/signin [36m302[0m 195.457 ms - 70[0m
+[0mGET /users/signin [32m200[0m 60.368 ms - 3789[0m
+[0mGET /css/main.css [36m304[0m 73.216 ms - -[0m
+[0mGET /img/logo.png [36m304[0m 24.038 ms - -[0m
+[0mGET /img/logoblanco-portada.png [36m304[0m 24.750 ms - -[0m
+[0mGET /img/colonia-background.png [36m304[0m 4.001 ms - -[0m
+[0mGET /favicon.ico [36m304[0m 21.332 ms - -[0m
