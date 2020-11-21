@@ -2,6 +2,7 @@ const usersCtrl = {};
 
 // Models
 const User = require('../models/User');
+const UserTemp = require('../models/UserTemp');
 
 // Modules
 const passport = require("passport");
@@ -56,6 +57,17 @@ usersCtrl.signin = passport.authenticate("local", {
 
 usersCtrl.logout = (req, res) => {
   req.logout();
+  const obj = JSON.parse(JSON.stringify(res.locals));
+  const email = obj.user.email 
+
+  /* const emailUser = async email => await UserTemp.findOne({ email: obj.user.email }); 
+  UserTemp.deleteOne({ email: emailUser }); */
+
+  UserTemp.deleteMany({ email: email }, function (err) {
+    if(err) console.log(err);
+    console.log("Successful deletion");
+  });
+
   req.flash("success_msg", "Has salido de tu sesión");
   res.redirect("/users/signin");
 };
