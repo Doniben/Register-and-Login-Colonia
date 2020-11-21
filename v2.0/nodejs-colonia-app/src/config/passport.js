@@ -2,6 +2,7 @@ const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 
 const User = require('../models/User'); 
+const UserTemp = require('../models/UserTemp');
 
 passport.use(new LocalStrategy({
   usernameField: 'email'
@@ -14,7 +15,15 @@ passport.use(new LocalStrategy({
     // Match Password's User
     /* const match = await user.matchPassword(password); */
     if(password) {
-      return done(null, user);
+      const userTemp = await UserTemp.findOne({email: email});
+      if(userTemp) {
+        return done(null, false, { message: 'El usuario ya ingresó en una sesión' });
+      } else {
+        const newTempUser = new UserTemp({ email, password });
+        newTempUser.password = await newTempUser.encryptPassword(password);
+        await newTempUser.save();
+        return done(null, user);
+      }
     } else {
       return done(null, false, { message: 'Contraseña incorrecta.' });
     }
