@@ -46,7 +46,18 @@
     </div>
       <div class="col-lg-5 col-md-3 col-sm-12 bg d-flex align-items-center">
         <div class="card-body text-center">
-              <img class="w-75" src="/img/logoblanco-portada.png" alt="Logo">
+              <img class="w-75" src="/img/logoblanco-portada.png" alt="Logo"></a>
+              {{#if user}}
+              <div class="d-flex justify-content-center">
+                <div class="col-md-9">
+                  <a href="/360" style="text-decoration-line: none" ><button style="background-color: #4866c8; color:aliceblue" class="text-center btn btn-block mt-5">
+                    <h2 class="h4 mt-1"> <strong> Vuelve al evento </strong></h2> 
+                  </button></a>
+                </div>
+              </div>
+              {{else}}
+              <div></div>
+              {{/if}}
         </div>
       </div>
   </div>
