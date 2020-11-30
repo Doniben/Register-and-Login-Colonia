@@ -10,6 +10,6 @@ mongoose
     useFindAndModify: false,
     useCreateIndex: true,
   })
-  .then((db) => console.log("Mongodb is connected to", db.connection.host))
+  .then((db) => console.log("Mongodb se ha conectado", db.connection.host))
   .catch((err) => console.error(err));
 
