@@ -9,7 +9,6 @@ const morgan = require("morgan");
 const connectMongo = require("connect-mongo");
 const mongoose = require("mongoose");
 
-
 // Initializations
 const app = express();
 require("./config/passport");
