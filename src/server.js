@@ -9,12 +9,10 @@ const morgan = require("morgan");
 const connectMongo = require("connect-mongo");
 const mongoose = require("mongoose");
 
-const { createAdminUser } = require("./libs/createUser");
 
 // Initializations
 const app = express();
 require("./config/passport");
-createAdminUser();
 
 // settings
 app.set("port", process.env.PORT || 4000);
