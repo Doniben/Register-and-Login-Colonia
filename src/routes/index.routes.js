@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 
 // Controllers
-const { renderIndex, renderAbout, renderPoliticas, renderTerminos, renderTerminosPdf, renderPoliticaPdf } = require("../controllers/index.controller");
+const { renderIndex, renderAbout, renderPoliticas, renderTerminos } = require("../controllers/index.controller");
 
 router.get("/", renderIndex);
 router.get("/about", renderAbout);

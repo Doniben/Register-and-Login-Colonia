@@ -1,18 +1,35 @@
 {
-  "name": "passportjs-example",
-  "version": "0.0.1",
-  "private": true,
+  "name": "nodejs-colonia-app",
+  "version": "2.0.0",
+  "description": "Login and Register for Colonia's events",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "3.4.4",
-    "jade": "*",
-    "mongoose": "^3.8.40",
-    "passport": "^0.2.2",
-    "passport-facebook": "^1.0.3",
-    "passport-google": "^0.3.0",
-    "passport-google-oauth": "^2.0.0",
-    "passport-twitter": "^1.0.4"
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "express-session": "^1.17.1",
+    "fast-csv": "^4.3.5",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.10.5",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.4.16",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "handlebars": "^4.7.6",
+    "nodemon": "^2.0.6",
+    "npm-check-updates": "^10.2.1"
   }
 }

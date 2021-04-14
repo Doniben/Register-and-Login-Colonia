@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&display=swap');
+
+body {
+  width: 100%;
+  height: 100% !important;
+  font-family: 'Montserrat', sans-serif;
+}
+.logo {
+  width: 40%;
+}
+/* .bg { */
+  /* The image used */
+  /* background-image: url("../img/colonia-background.png"); */
+
+  /* Center and scale the image nicely */
+  /* background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+} */
+.form {
+  border-radius: 1px;
+}
+
+/* .input-rec {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  border: solid 1px #707070 !important;
+  margin: 13px 0 28px;
+} */
+
+#relative {
+  position: relative;
+}
+
+.row-bordered:after {
+  content: "";
+  display: block;
+  border-bottom: 5px solid #934D8A;
+  margin-left: 30px;
+  margin-bottom: 0;
+}
+
+.border {
+  border: solid 2px #934D8A !important;
+}
+.mycheckbox{
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.mycheckboxdiv{
+  text-align: right;
+}
+.fa-user:before,
+.fa-envelope:before,
+.fa-lock:before {
+  color: #934D8A;
+}
+.header {
+  width: 100%;
+  height: 40% !important;
+  left: -5%;
+  background-image: linear-gradient(#e91180, #e91180);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 50% 50%;
+  border-bottom-right-radius: -50% 10%;
+}
+
+#quote-box {
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+p.text-lg {
+  font-size: 16px;
+}
+
+h1.text-xl {
+  font-size: 55px;
+}
